@@ -1,0 +1,56 @@
+/* YourComponent.css */
+
+.main-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .data-container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #848484;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    gap: 20px;
+  }
+  
+  /* Button styles */
+  .delete-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .update-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    background-color: #6495ed;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    background-color: #008000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  .form-div{
+    display: block;
+  }
