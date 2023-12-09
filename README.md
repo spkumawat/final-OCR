@@ -80,11 +80,11 @@ Please ensure you have the following dependencies installed on your system:
 - ℹ️ NodeJS > v18.16
 
  Installation
-Clone the Qoala-OCR-app repository:
-git clone https://github.com/spkumawat/Qoala-OCR-app
+Clone the final-OCR repository:
+git clone https://github.com/spkumawat/final-OCR
 
 Change to the project directory:
-cd  Qoala-OCR-app
+cd  practice-backend
 
 
 **- Install the modules**
